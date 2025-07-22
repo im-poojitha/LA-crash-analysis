@@ -17,7 +17,7 @@ This project focuses on exploring and analyzing motor vehicle crash data from Lo
 
 Here's a heatmap of crash locations in LA:
 
-![Crash Heatmap](la_crash_accidents.png)
+![Crash Heatmap](LA_crash_accidents.png)
 
 
 ## 🧠 Skills Practiced
