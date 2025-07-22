@@ -13,6 +13,13 @@ This project focuses on exploring and analyzing motor vehicle crash data from Lo
   - H3
   - Jupyter Notebook
 
+## 🖼️ Heatmap Visualization
+
+Here's a heatmap of crash locations in LA:
+
+![Crash Heatmap](map/la_crash_accidents.png)
+
+
 ## 🧠 Skills Practiced
 
 - Data cleaning and preprocessing
